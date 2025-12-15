@@ -8,6 +8,7 @@ License:	MIT
 Group:		Development/Python
 BuildSystem:	python
 BuildRequires:	python%{pyver}dist(setuptools)
+BuildRequires:	python%{pyver}dist(cython)
 
 %description
 Tools to manipulate font files
