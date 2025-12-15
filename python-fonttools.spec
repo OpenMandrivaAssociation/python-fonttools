@@ -7,6 +7,7 @@ URL:		https://pypi.org/project/fonttools/
 License:	MIT
 Group:		Development/Python
 BuildSystem:	python
+BuildRequires:	pkgconfig(python3)
 BuildRequires:	python%{pyver}dist(setuptools)
 BuildRequires:	python%{pyver}dist(cython)
 
