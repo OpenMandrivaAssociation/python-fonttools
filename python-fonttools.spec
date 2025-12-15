@@ -6,8 +6,8 @@ Summary:	Tools to manipulate font files
 URL:		https://pypi.org/project/fonttools/
 License:	MIT
 Group:		Development/Python
-BuildRequires:	python
 BuildSystem:	python
+BuildRequires:	python%{pyver}dist(setuptools)
 
 %description
 Tools to manipulate font files
