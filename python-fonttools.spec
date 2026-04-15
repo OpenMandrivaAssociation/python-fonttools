@@ -1,5 +1,5 @@
 Name:		python-fonttools
-Version:	4.61.1
+Version:	4.62.1
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/f/fonttools/fonttools-%{version}.tar.gz
 Summary:	Tools to manipulate font files
